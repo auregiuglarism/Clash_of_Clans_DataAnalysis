@@ -1,8 +1,0 @@
-Level,Damage per Second,Damage per Attack,Hitpoints,Research cost,Research time,Laboratory Level Required
-1,100,70,300,N/A,N/A,N/A
-2,110,77,320,"40,000",4d,7
-3,140,98,400,"58,000",4d 18h,8
-4,160,112,440,"90,000",6d 18h,9
-5,180,126,480,"125,000",7d 12h,10
-6,200,140,520,"340,000",14d,13
-7,220,154,560,"360,000",16d,14
