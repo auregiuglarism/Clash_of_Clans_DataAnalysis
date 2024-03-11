@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9027eec6-0222-4954-a64d-44d041e8ce31" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Defence Structure Analysis/Bomb_Tower_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Defence Structure Analysis/Bomb_Tower_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Defence Structure Analysis/Eagle_Artillery_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Defence Structure Analysis/defence_structure_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Defence Structure Analysis/defence_structure_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Troop Analysis/troop_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Troop Analysis/troop_analysis.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dAlolKzXP4BJt175KXvipi1xQa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/laure/OneDrive/Documents/GitHub/Clash_of_Clans_Data_Analysis&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\laure\OneDrive\Documents\GitHub\Clash_of_Clans_Data_Analysis\Defence Structure Analysis" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9027eec6-0222-4954-a64d-44d041e8ce31" name="Changes" comment="" />
+      <created>1709458940590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709458940590</updated>
+      <workItem from="1709458941871" duration="6266000" />
+      <workItem from="1709572552826" duration="10000" />
+      <workItem from="1709738170589" duration="580000" />
+      <workItem from="1709738772668" duration="4415000" />
+      <workItem from="1709760311222" duration="12000" />
+      <workItem from="1710168576775" duration="951000" />
+      <workItem from="1710170147005" duration="325000" />
+      <workItem from="1710170846786" duration="621000" />
+      <workItem from="1710172926117" duration="229000" />
+      <workItem from="1710173307866" duration="3229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
