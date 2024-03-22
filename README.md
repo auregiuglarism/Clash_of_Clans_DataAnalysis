@@ -21,3 +21,5 @@ DPS : Damage Per Second reflects how much damage is done in a second by a troop,
 **RQ2**: Jerry wants to know which defence structure is the best overall (DPS, HP), taking into account aerial and ground damage dealt. <br>
 <br>
 **RQ3**: Finally Jerry wants to know which hero is most powerful again to focus on improving this hero first before others (Townhall 9 has the Archer Queen and the Barbarian King)
+
+**We give permission to reuse, or show our work to any external party or individual in the hopes it helps anyone at improving at the game**
