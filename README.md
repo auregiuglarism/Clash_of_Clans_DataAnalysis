@@ -5,7 +5,7 @@ Our repository is organized under two folders: one dedicated to the analysis of 
 
 ## Data Analysis Video
 
-Taking the example of Jerry, a fictional player of the game at townhall level 9 who recently acquired data analysis skills, we answer the following research questions and present our analysis in the following video: 
+Taking the example of Jerry, a fictional player of the game at townhall level 9 who recently acquired data analysis skills, we answer the following research questions and present our analysis in the following video (anybody is welcome to see it): 
 
 ## A bit of vocabulary
 
