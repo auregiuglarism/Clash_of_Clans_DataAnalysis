@@ -1,5 +1,8 @@
 # Clash_of_Clans_Data_Analysis
-A data analysis of the most optimal defence structures and offence troops in the popular game: Clash of Clans.
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C4gkjwi7x2Y/0.jpg)](https://www.youtube.com/watch?v=C4gkjwi7x2Y)
+
+A data analysis of the most optimal defense structures and offense troops in the popular game: Clash of Clans.
 
 Our repository is organized under two folders: one dedicated to the analysis of troops and heroes (Townhall LV 9 Max) and the other dedicated to the analysis of the game's defences.
 
