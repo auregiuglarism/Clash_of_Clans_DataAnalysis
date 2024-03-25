@@ -1,6 +1,6 @@
 # Clash_of_Clans_Data_Analysis
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/C4gkjwi7x2Y/0.jpg)](https://www.youtube.com/watch?v=C4gkjwi7x2Y)
+[![DataMadness video submission group 8](https://img.youtube.com/vi/C4gkjwi7x2Y/0.jpg)](https://www.youtube.com/watch?v=C4gkjwi7x2Y)
 
 A data analysis of the most optimal defense structures and offense troops in the popular game: Clash of Clans.
 
